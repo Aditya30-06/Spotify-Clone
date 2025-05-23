@@ -9,4 +9,3 @@ A simple Spotify landing page clone built using **HTML** and **CSS**.
 - HTML5
 - CSS3 (Flexbox/Grid)
 
-## 📂 Folder Structure
